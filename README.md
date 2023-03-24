@@ -1,4 +1,4 @@
-# Example Machine Learning Jupyter Notebook
+# Machine Learning Jupyter Notebooks
 
 Project1:
 
